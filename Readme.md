@@ -1,4 +1,6 @@
 # TranslucentTB
+> This repo is forked by [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
+> I just set the default set up to clear which was blur before, for self-using. Please give a star to [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) simple and useful!
 
 [![Join the chat at https://gitter.im/TranslucentTB/Lobby](https://badges.gitter.im/TranslucentTB/Lobby.svg)](https://gitter.im/TranslucentTB/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -47,11 +49,11 @@ $ git clone -b master https://github.com/ethanhs/TranslucentTB.git
 
 You can also download a zip of each branch by clicking on the `Clone or Download` button.
 
-Now that you have the source, you will need Visual Studio 2015. [You can get the free community edition here](https://www.visualstudio.com/vs/community/). 
+Now that you have the source, you will need Visual Studio 2015. [You can get the free community edition here](https://www.visualstudio.com/vs/community/).
 Once you have that installed (make sure you have the C++ components, which are included by default). Then you can open TranslucentTB.sln, and press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> to build the solution.
 The output will be in either the Release or Debug folder.
 
-If you don't want to open Visual Studio (or install it), you can (if you haven't installed VS) install the [Visual C++ Build Tools from Microsoft](http://landinghub.visualstudio.com/visual-cpp-build-tools). 
+If you don't want to open Visual Studio (or install it), you can (if you haven't installed VS) install the [Visual C++ Build Tools from Microsoft](http://landinghub.visualstudio.com/visual-cpp-build-tools).
 Then open the `Visual C++ MSBuild Command Prompt` and `cd` into the root directory of this project, before running `msbuild`.
 
 ##Thanks
@@ -59,7 +61,7 @@ Then open the `Visual C++ MSBuild Command Prompt` and `cd` into the root directo
 I definitly could not have done this without the help of several people:
 @charlesmilette, @MrAksel, @olliethepikachu, and last but certainly not least @PFCKrutonium.
 
-If you would like to contribute, everyone is welcome to! If you are considering a major feature, need guidance, 
+If you would like to contribute, everyone is welcome to! If you are considering a major feature, need guidance,
 or want to talk an idea out, don't hesitate to jump on Gitter (see above), or file an issue. I am often on Gitter and Github, so I should reply fairly quickly.
 Also, at this time I have no plans of expanding this beyond the taskbar.
 
